@@ -28,7 +28,6 @@ app.get('/', function (req, res) {
     })
   });
 
-
 app.get('/generic', function (req, res) {
     res.render('generic')
   });
