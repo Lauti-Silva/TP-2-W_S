@@ -1,11 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "..\\TP-Web-Server-Json\\.git"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
